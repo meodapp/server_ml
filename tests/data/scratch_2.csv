@@ -1,0 +1,7 @@
+id_,state,healthcare_unit,issue_date,hashed_patient_identifier,gender,race,nationality,reason_for_encounter,reason_for_discharge,date_of_discharge,associated_causes,performed_procedure,main_diagnosis,age,secondary_diagnosis,ethnic_group,weight,height,indicator_of_transplantation,number_of_transplantation
+46703883,MG,d944007c395b2744,201008,7165425c191e264eb9c217c1776bee2cf761191d933e8f5090e2d64a41498e79,M,99,010,06,21,,0000,0604610017 (SOMATROPINA 4 UI INJETAVEL (POR FRASCO-AMPOLA)),E230 (Hipopituitarismo),11 (2010),0000,,035,146,N,00
+29438046,SP,08a392f485226378,200802,0a4d84042d1c22d128262bccb739a034452c689d1de08da864f3e16c2a67d8d8,F,99,010,01,21,,0000,0601180020 (ATORVASTATINA (J) 20 MG (POR COMPRIMIDO)),E780 (Hipercolesterolemia pura),41 (1980),0000,,80,175,N,00
+34538787,SC,d6d9ac9ced4cea73,201205,0a4d84042d1c22d19ea2dbdaaa69ee40f233dd381d87dbc783fee955d38bc4cd,F,99,010,06,21,,0000,"0604030037 (CABERGOLINA 0,5 MG (POR COMPRIMIDO))",E221 (Hiperprolactinemia),12 (2008),0000,,050,165,N,00
+48600744,MG,041a10291f628f5e,201112,0a4d84042d1c22d12d6d762627c1de6806f0e7e9014bd6cc6288f449920010ca,F,99,010,06,21,,0000,"0604110030 (LEUPRORRELINA 3,75 MG INJETAVEL (POR FRASCO-AMPOLA))",E228 (Outr hiperfuncoes da hipofise),09 (2011),0000,,025,120,N,00
+33792163,CE,a97306cdf65e5fec,201205,0a4d84042d1c22d14e79c87b57e820b86cb841023a65db02cba6c3ed1b03c0c7,M,99,010,06,21,,0000,0604030061 (PRAMIPEXOL 1 MG (POR COMPRIMIDO)),G20 (Doenc de Parkinson),70 (1950),0000,,070,166,S,01
+,,,,,,,,,,,,,,,,,,,,

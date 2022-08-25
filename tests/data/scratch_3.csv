@@ -1,0 +1,2 @@
+id_,state,healthcare_unit,issue_date,performed_procedure,hashed_patient_identifier,age,gender,race,nationality,reason_for_encounter,reason_for_discharge,date_of_discharge,associated_causes,main_diagnosis,secondary_diagnosis,ethnic_group,weight,height,indicator_of_transplantation,number_of_transplantation
+                288176,PR,aaf36e57ad39f9f4,200909,0601350120,066dc1f1bf291e96ac2b8f38635ba260ceae1bc0158f08689fd8d0c8fcf55e16,80,F,99,10,1,51,20090901,0,M811,E782,0,055,160,N,00
